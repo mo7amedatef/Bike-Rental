@@ -51,8 +51,7 @@ The analysis includes the following steps:
 1. **Clone the repository** (if applicable):
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/mo7amedatef/Bike-Rental
     ```
 
 2. **Run the Jupyter Notebook**:
